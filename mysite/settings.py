@@ -25,7 +25,7 @@ SECRET_KEY = 'gipeu*du=33k0zt11*k*1-$!e_%6xn+z146ysjfg^-z8i@ge9-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['aleksandrawozniak.pythonanywhere.com']
 
 
 # Application definition
